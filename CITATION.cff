@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use these working papers, please cite the specific paper by its DOI (see README)."
+title: "Glacier Institute Working Papers 庚辛研究院工作论文"
+type: dataset
+authors:
+  - name: "Glacier Institute 庚辛研究院"
+    website: "https://glacier.mba/research/"
+license: CC-BY-4.0
+url: "https://glacier.mba/research/"
+repository-code: "https://github.com/GlacierSciTech/papers"
+date-released: 2026-09-20
+keywords:
+  - primary market
+  - venture capital
+  - deep tech
+  - embodied AI
+  - 一级市场
+  - 风险投资
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22869076"
+    description: "GI-WP-2026-P1"
+  - type: doi
+    value: "10.5281/zenodo.22869123"
+    description: "GI-WP-2026-P2"
+  - type: doi
+    value: "10.5281/zenodo.22869163"
+    description: "GI-WP-2026-P3"
+  - type: doi
+    value: "10.5281/zenodo.22869201"
+    description: "GI-WP-2026-P6"
+  - type: doi
+    value: "10.5281/zenodo.22869232"
+    description: "GI-WP-2026-P7"
