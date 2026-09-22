@@ -1,6 +1,6 @@
-# 庚辛研究院工作论文 · Glacier Institute Working Papers
+# 庚辛研究院通讯论文 · Glacier Institute Working Papers
 
-庚辛研究院（Glacier Institute）是庚辛资本下设的研究机构。本仓库存放研究院公开发布的工作论文（PDF），每篇均在 Zenodo 登记了永久 DOI。
+庚辛研究院（Glacier Institute）是庚辛资本下设的研究机构。本仓库存放研究院公开发布的通讯论文（PDF），每篇均在 Zenodo 登记了永久 DOI。
 
 Glacier Institute is the research unit of Glacier Capital. This repository holds the Institute's published working papers (PDF). Each paper carries a permanent DOI registered on Zenodo.
 
@@ -21,6 +21,8 @@ Glacier Institute is the research unit of Glacier Capital. This repository holds
 | GI-WP-2026-P9 | 校准：在发问之前把预期对齐<br>*Calibration: Aligning Expectations Before the Question Is Asked* | 待登记 pending |
 | GI-WP-2026-P10 | 一条链，五个筐：为什么产业链的分类方式决定了它的定价<br>*One Chain, Five Baskets: Why the Way a Value Chain Is Classified Decides How It Is Priced* | 待登记 pending |
 | GI-WP-2026-P11 | 借来的理论：前沿技术的概念如何解释一家投行的日常<br>*Borrowed Theories: How Frontier-Technology Concepts Explain the Daily Work of an Investment Bank* | 待登记 pending |
+| GI-WP-2026-P12 | 换手处的损耗：全托管的边界画在哪里<br>*Loss at the handover: where the boundary of a full mandate is drawn* | 待登记 pending |
+| GI-WP-2026-P13 | 软标签：复盘为什么要记下当时的次优选项<br>*Soft labels: why a review should record the options not taken* | 待登记 pending |
 
 编号 P4、P5 的选题已并入 P7，不单独成篇。P8–P10 的 DOI 正在登记。
 Working papers P4 and P5 were merged into P7 and are not published separately.
@@ -32,7 +34,7 @@ On 2026-09-22 all papers were re-typeset (two-column academic layout with a rese
 
 ## 引用 Citation
 
-中文：庚辛研究院. 《题名》. 庚辛研究院工作论文 GI-WP-2026-Pn. 2026. DOI.
+中文：庚辛研究院. 《题名》. 庚辛研究院通讯论文 GI-WP-2026-Pn. 2026. DOI.
 
 English: Glacier Institute. *Title*. Glacier Institute Working Paper GI-WP-2026-Pn. 2026. DOI.
 
