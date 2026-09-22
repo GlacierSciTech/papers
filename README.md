@@ -21,6 +21,11 @@ Glacier Institute is the research unit of Glacier Capital. This repository holds
 编号 P4、P5 的选题已并入 P7，不单独成篇。
 Working papers P4 and P5 were merged into P7 and are not published separately.
 
+## 版本 Versions
+
+2026-09-22：全部论文换用新版式（双栏学术体例 + 研报视觉），内容与 DOI 不变。
+On 2026-09-22 all papers were re-typeset (two-column academic layout with a research-report visual system). Contents and DOIs are unchanged.
+
 ## 引用 Citation
 
 中文：庚辛研究院. 《题名》. 庚辛研究院工作论文 GI-WP-2026-Pn. 2026. DOI.
