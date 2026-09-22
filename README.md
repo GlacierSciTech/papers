@@ -20,6 +20,7 @@ Glacier Institute is the research unit of Glacier Capital. This repository holds
 | GI-WP-2026-P8 | 单向门：一级市场里不可撤回的动作，以及谁来按下它<br>*One-Way Doors: Irreversible Actions in the Primary Market, and Who Presses the Button* | 待登记 pending |
 | GI-WP-2026-P9 | 校准：在发问之前把预期对齐<br>*Calibration: Aligning Expectations Before the Question Is Asked* | 待登记 pending |
 | GI-WP-2026-P10 | 一条链，五个筐：为什么产业链的分类方式决定了它的定价<br>*One Chain, Five Baskets: Why the Way a Value Chain Is Classified Decides How It Is Priced* | 待登记 pending |
+| GI-WP-2026-P11 | 借来的理论：前沿技术的概念如何解释一家投行的日常<br>*Borrowed Theories: How Frontier-Technology Concepts Explain the Daily Work of an Investment Bank* | 待登记 pending |
 
 编号 P4、P5 的选题已并入 P7，不单独成篇。P8–P10 的 DOI 正在登记。
 Working papers P4 and P5 were merged into P7 and are not published separately.
