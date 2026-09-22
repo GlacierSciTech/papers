@@ -17,8 +17,11 @@ Glacier Institute is the research unit of Glacier Capital. This repository holds
 | GI-WP-2026-P3 | 具身智能的价值迁移：从整机到感知零部件<br>*Value Migration in Embodied AI: From the Whole Machine to the Perception Component Layer* | 2026-09-20 | [10.5281/zenodo.22869163](https://doi.org/10.5281/zenodo.22869163) |
 | GI-WP-2026-P6 | 北坡与营地：一家精品投行的哲学系统及其语言边界<br>*The North Face and the Camp: The Philosophical System of a Boutique Investment Bank and the Limits of Its Language* | 2026-09-20 | [10.5281/zenodo.22869201](https://doi.org/10.5281/zenodo.22869201) |
 | GI-WP-2026-P7 | 从模型侧到能源侧：物理 AI 时代计算底座的瓶颈迁移与时间错位<br>*From Model to Energy: Bottleneck Migration and Temporal Misalignment in the Computing Substrate of the Physical AI Era* | 2026-09-20 | [10.5281/zenodo.22869232](https://doi.org/10.5281/zenodo.22869232) |
+| GI-WP-2026-P8 | 单向门：一级市场里不可撤回的动作，以及谁来按下它<br>*One-Way Doors: Irreversible Actions in the Primary Market, and Who Presses the Button* | 待登记 pending |
+| GI-WP-2026-P9 | 校准：在发问之前把预期对齐<br>*Calibration: Aligning Expectations Before the Question Is Asked* | 待登记 pending |
+| GI-WP-2026-P10 | 一条链，五个筐：为什么产业链的分类方式决定了它的定价<br>*One Chain, Five Baskets: Why the Way a Value Chain Is Classified Decides How It Is Priced* | 待登记 pending |
 
-编号 P4、P5 的选题已并入 P7，不单独成篇。
+编号 P4、P5 的选题已并入 P7，不单独成篇。P8–P10 的 DOI 正在登记。
 Working papers P4 and P5 were merged into P7 and are not published separately.
 
 ## 版本 Versions
